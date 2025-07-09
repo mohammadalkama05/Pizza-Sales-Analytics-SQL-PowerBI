@@ -6,8 +6,7 @@ This project focuses on analyzing pizza sales data using *SQL* for querying and 
 
 ## 📂 Dashboard preview
 
-![Pizza Sales Dashboard]
-(PizzaSalesDashboard.png)
+![Pizza Sales Dashboard](PizzaSalesDashboard.png)
 
 ## 📂 Dataset Overview
 
