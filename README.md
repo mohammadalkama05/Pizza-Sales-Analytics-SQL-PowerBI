@@ -89,9 +89,6 @@ Credits: [Ayushi0214](https://github.com/Ayushi0214/pizza-sales---SQL)
 BCA – Data Science & AI  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-alkama-133520371)
 
-*Anuj Jaiswal*
-BCA - Data Science & AI
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anuj-116409324)
 ---
 
 ## ⭐ Star This Repo if You Found It Helpful!
